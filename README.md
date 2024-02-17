@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KawaseDev
+- 🌱 I’m currently know java, c++ , c#, python
+- 📫 How to reach me @kawase.femboy
