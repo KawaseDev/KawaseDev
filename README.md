@@ -11,8 +11,8 @@ I'm Kawase, a amateur java developer
 - Python
 
 ## Tools I Use <3
-- ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-- ![Inteliji](https://i.imgur.com/Hwuw2ve.png)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
 
 ## Experience
 - 1 year and a half of java development
