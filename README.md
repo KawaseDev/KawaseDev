@@ -1,9 +1,6 @@
 ## Hi :3
 
 I'm Kawase, a amateur java developer
-## Bios
-- https://fakecrime.bio/kawase
-- https://e-z.bio/kawase
 ## About Me
 - Age > 14
 - country > Romania
@@ -18,5 +15,9 @@ I'm Kawase, a amateur java developer
 - and 2 years+ of python & c#
 
 ## Projects I Am Currently Working on
-  
-Contact Me me at @kawase.femboy
+- Serenium (1.21 & 1.8)
+
+## Contact & Bios
+- @kawase.owo
+- https://fakecrime.bio/kawase
+- https://e-z.bio/kawase
