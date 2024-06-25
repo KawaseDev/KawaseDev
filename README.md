@@ -9,8 +9,8 @@ I'm Kawase, a amateur java developer
         Python
 
 ## Experience
-- 1 and a half year of java development
-- 2 years of cheat developing
+- 1 year and a half of java development
+- and 2 years+ of python & c#
 
 
 Contact Me me at @kawase.femboy
