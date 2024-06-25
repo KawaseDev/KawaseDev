@@ -10,7 +10,7 @@ I'm Kawase, a amateur java developer
 - C#
 - Python
 
-## Tools I Use <3
+## Some Of The Tools I Use
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
 
