@@ -1,7 +1,7 @@
-Hi :3
+## Hi :3
 
-I'm @KawaseDev, a amateur java developer
-About Me
+I'm Kawase, a amateur java developer
+## About Me
     Programming Languages I Know:
         Java
         C++
