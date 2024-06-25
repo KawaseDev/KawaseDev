@@ -1,10 +1,6 @@
-## Hi :3
-
-I'm Kawase, a amateur java developer
-## About Me
-- Age > 14
-- country > Romania
-##    Programming Languages I Know:
+## Hi, I'm Kawase :3
+A 14 year old amateur java developer from Romania
+## Programming Languages I Know:
 - Java
 - C++
 - C#
