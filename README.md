@@ -1,6 +1,9 @@
 ## Hi :3
 
 I'm Kawase, a amateur java developer
+## Bios
+- https://fakecrime.bio/kawase
+- https://e-z.bio/kawase
 ## About Me
 - Age > 14
 - country > Romania
