@@ -2,7 +2,7 @@
 
 I'm Kawase, a amateur java developer
 ## About Me
-    Programming Languages I Know:
+##    Programming Languages I Know:
         Java
         C++
         C#
