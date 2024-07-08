@@ -15,7 +15,7 @@ A 14 year old amateur java developer from Romania
 - and 2 years+ of python & c#
 
 ## Projects I Am Currently Working on
-- Serenium (1.21 & 1.8)
+- Serenium 1.21
 
 ## Contact & Bios
 - @kawase.owo
