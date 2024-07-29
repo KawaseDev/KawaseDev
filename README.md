@@ -1,7 +1,7 @@
 ## Hi, I'm Kawase :3
-A 14 year old amateur java developer from Romania
+A 14 year old amateur developer from Romania
 ## Programming Languages I Know:
-- Java
+- Java (fav)
 - C++
 - C#
 - Python
