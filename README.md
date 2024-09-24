@@ -16,6 +16,8 @@ A 14 year old amateur developer from Romania
 
 ## Projects I Am Currently Working on
 - Serenium 1.21
+- gothaj 3.5 and 4.0 recode (1.8)
+- xeno 1.21
 
 ## Contact & Bios
 - @kawase.owo
