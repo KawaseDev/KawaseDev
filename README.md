@@ -1,5 +1,5 @@
 ## Hi, I'm Kawase :3
-A 14 year old amateur developer from Romania
+A 15 year old amateur developer from Romania
 ## Programming languages I know:
 - Java (fav)
 - C++
@@ -11,7 +11,7 @@ A 14 year old amateur developer from Romania
 ![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
 
 ## Experience
-- 1 year and a half of java development
+- 2 years of java development
 - and 2 years+ of python & c#
 
 ## Projects I am currently working on
