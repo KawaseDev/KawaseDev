@@ -1,5 +1,5 @@
 ## Hi, I'm Kawase :3
-A 15 year old amateur developer from Romania
+Amateur developer from Romania
 ## Programming languages I know:
 - Java (fav)
 - C++
