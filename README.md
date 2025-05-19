@@ -15,10 +15,13 @@ An amateur developer from Romania
 - and 2 years+ of python & c#
 
 ## Projects I am currently working on
-- Serenium 1.21
+- Serenium / Astralis 1.21
+
+## Projects I worked on
 - gothaj 3.5 and 4.0 recode (1.8)
+- (there are more but im lazy to list em all)
 
 ## Contact & Bios
-- @kawase.owo
+- @kawase.owo (discord)
 - https://fakecrime.bio/kawase
 - https://e-z.bio/kawase
