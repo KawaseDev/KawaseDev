@@ -2,7 +2,7 @@
 An amateur developer from Romania
 ## Programming languages I know:
 - Java (fav)
-- C++
+- C++ (barely)
 - C#
 - Python
 
