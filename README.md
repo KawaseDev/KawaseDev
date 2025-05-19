@@ -1,5 +1,5 @@
 ## Hi, I'm Kawase :3
-Amateur developer from Romania
+An amateur developer from Romania
 ## Programming languages I know:
 - Java (fav)
 - C++
