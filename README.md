@@ -1,10 +1,15 @@
 ## Hi, I'm Kawase :3
 An amateur developer from Romania
-## Programming languages I know:
-- Java (fav)
-- C++ (barely)
-- C#
-- Python
+## Programming Languages
+
+### Proficient With
+- **Java** (fav)
+- **C#**
+- **Python**
+
+### Basic Knowledge / Still Learning
+- **C++**
+
 
 ## Some of the tools I use
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
