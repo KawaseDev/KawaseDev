@@ -10,7 +10,6 @@ An amateur developer from Romania
 ### Basic Knowledge / Still Learning
 - **C++**
 
-
 ## Some of the tools I use
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
