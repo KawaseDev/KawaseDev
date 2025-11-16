@@ -20,7 +20,7 @@ An amateur developer from Romania
 - and 2 years+ of python & c#
 
 ## Projects I am currently working on
-- Serenium / Astralis 1.21.8
+- Serenium / Astralis 1.21.10
 - Gothaj Recode
 
 ## Projects I worked on
