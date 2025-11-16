@@ -21,10 +21,6 @@ I’m a developer from Romania, mainly focused on Java, Minecraft modding / clie
 - **Serenium / Astralis (1.21.10)**
 - **Gothaj Recode**
 
-## Some of the tools I use
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
-
 ## Tech Stack
 ![Java](https://skillicons.dev/icons?i=java)
 ![C#](https://skillicons.dev/icons?i=cs)
@@ -33,6 +29,10 @@ I’m a developer from Romania, mainly focused on Java, Minecraft modding / clie
 ![Gradle](https://skillicons.dev/icons?i=gradle)
 ![Git](https://skillicons.dev/icons?i=git)
 ![Linux](https://skillicons.dev/icons?i=linux)
+
+## Some of the tools I use
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
 
 ## Projects I worked on
 - gothaj 3.5 and 4.0 recode (1.8)
