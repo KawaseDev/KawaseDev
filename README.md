@@ -24,12 +24,15 @@ An amateur developer from Romania
 ![Linux](https://skillicons.dev/icons?i=linux)
 
 ## Experience
-- 2 years of java development
-- and 2 years+ of python & c#
+- 3 years of java development experience
+- and 3 years+ of python & c#
 
-## Projects I am currently working on
-- Serenium / Astralis 1.21.10
-- Gothaj Recode
+## Projects I'm Currently Working On
+
+- **Serenity Utils — Backend & Frontend**
+- **Serenity Utils — Anti-Reverse, Tamper Protection & Obfuscation**
+- **Serenium / Astralis (1.21.10)**
+- **Gothaj Recode**
 
 ## Projects I worked on
 - gothaj 3.5 and 4.0 recode (1.8)
