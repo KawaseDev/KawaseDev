@@ -25,7 +25,7 @@ An amateur developer from Romania
 
 ## Projects I worked on
 - gothaj 3.5 and 4.0 recode (1.8)
-- (there are more but im lazy to list em all)
+- (there are way more but im lazy to list em all)
 
 ## Contact & Bios
 - @kawase.owo (discord)
