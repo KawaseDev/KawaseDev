@@ -1,5 +1,6 @@
 ## Hi, I'm Kawase :3
-An amateur developer from Romania
+I’m a developer from Romania, mainly focused on Java, Minecraft modding / clients, backends, anti–reverse-engineering protection for Java projects, and game-related tooling.
+
 ## Programming Languages
 
 ### Proficient With
