@@ -25,8 +25,8 @@ I’m a developer from Romania, mainly focused on Java, Minecraft modding / clie
 ![Linux](https://skillicons.dev/icons?i=linux)
 
 ## Experience
-- 3 years of java development experience
-- and 3 years+ of python & c#
+- 3 years of Java development
+- 3+ years of Python & C# (only occasionally or for quick side projects)
 
 ## Projects I'm Currently Working On
 - **Serenity Utils - Backend & Frontend**
