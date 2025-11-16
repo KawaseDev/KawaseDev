@@ -28,9 +28,8 @@ An amateur developer from Romania
 - and 3 years+ of python & c#
 
 ## Projects I'm Currently Working On
-
-- **Serenity Utils — Backend & Frontend**
-- **Serenity Utils — Anti-Reverse, Tamper Protection & Obfuscation**
+- **Serenity Utils - Backend & Frontend**
+- **Serenity Utils - Anti-Reverse, Tamper Protection & Obfuscation**
 - **Serenium / Astralis (1.21.10)**
 - **Gothaj Recode**
 
