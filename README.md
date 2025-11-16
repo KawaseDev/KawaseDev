@@ -3,7 +3,7 @@ An amateur developer from Romania
 ## Programming Languages
 
 ### Proficient With
-- **Java** (fav)
+- **Java**
 - **C#**
 - **Python**
 
