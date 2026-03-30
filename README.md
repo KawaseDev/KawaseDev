@@ -14,7 +14,7 @@ I’m a developer from Romania, mainly focused on Java, Minecraft modding / clie
 ## Projects I'm Currently Working On
 - **Serenity Utils - Backend & Frontend**
 - **Serenity Utils - Anti-Reverse, Tamper Protection & Obfuscation**
-- **Serenium / Astralis (1.21.11)**
+- **Serenium / Astralis (26.1)**
 - **Gothaj Recode**
 
 ## Tech Stack
