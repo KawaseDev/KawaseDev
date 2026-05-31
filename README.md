@@ -31,8 +31,8 @@ I’m a developer from Romania, mainly focused on Java, Minecraft modding / clie
 ![IntelliJ IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
 
 ## Experience
-- 3 years of Java development
-- 3+ years of Python & C# (only occasionally or for quick side projects)
+- 4 years of Java development
+- 4+ years of Python & C# (only occasionally or for quick side projects)
 
 ## Projects I worked on in the past
 - gothaj 3.5 and 4.0 recode (1.8)
