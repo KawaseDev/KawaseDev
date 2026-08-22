@@ -17,14 +17,15 @@ I mainly work with Java, Minecraft mods and clients, backend development, Java a
 
 ## Languages
 
-- **Proficient:** Java, C#, Python
+- **Proficient:** Java, C# & Python
 - **Currently learning:** C++
 
-## Current projects
+## Current Main projects
 
-- **Serenity Utils**: Backend and frontend
-- **Serenity Utils**: Anti-reverse engineering, tamper protection, and obfuscation
-- **Serenium / Astralis**: 26.2
+- **Reselling.wtf**: Backend and frontend
+- **Serenity**: Backend, anti-reverse engineering, tamper protection, obfuscation, launcher etc
+- **Serenium / Astralis**: Minecraft 26.2  
+  *The version listed here may be outdated since I don't update this README every time. It's usually kept on the latest version.*
 - **Gothaj Recode**
 
 ## Tech stack
@@ -45,6 +46,7 @@ I mainly work with Java, Minecraft mods and clients, backend development, Java a
 ## Past projects
 
 - Gothaj 3.5 and 4.0 recodes for Minecraft 1.8
+- November, Lithium, Actinium, Suku and a lot more nn discontinued 1.8 clients
 
 ## Links
 
