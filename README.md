@@ -13,7 +13,7 @@
 
 ## About me
 
-I mainly work with Java, Minecraft mods and clients, backend development, Java anti-reverse-engineering protection, tamper protection, and game-related tools. I'm also interested in AI, programming competitions, and experimenting with new technologies.
+I mainly work with Java, Minecraft mods and clients, backend development, Java anti-reverse-engineering protection, tamper protection, game-related tools, and machine learning.
 
 ## Languages
 
