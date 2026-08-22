@@ -1,0 +1,24 @@
+<svg width="900" height="180" viewBox="0 0 900 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5865F2"/>
+      <stop offset="100%" stop-color="#9b7df4"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#5865F2" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#5865F2" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#1f2630" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="180" fill="url(#bg)"/>
+  <rect width="900" height="180" fill="url(#grid)"/>
+  <ellipse cx="450" cy="90" rx="380" ry="110" fill="url(#glow)"/>
+  <text x="450" y="102" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="52" font-weight="700" fill="url(#accent)" letter-spacing="2">Kawase</text>
+  <text x="450" y="134" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" fill="#8b949e" letter-spacing="6">JAVA · MINECRAFT · BACKEND</text>
+</svg>

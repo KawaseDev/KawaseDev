@@ -1,10 +1,12 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=&fontSize=0)
+<p align="center">
+  <img src="banner.svg" alt="Kawase" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=500&color=5865F2&center=true&vCenter=true&width=435&lines=Java+Developer;Minecraft+Modding;Backend+Systems;Anti-Reverse-Engineering" alt="Typing SVG">
+</p>
 
 <div align="center">
-
-# Hi, I'm Kawase :3
-
-### Developer from Romania focused on Java, Minecraft modding, backend systems, and game-related tooling.
 
 [![GitHub](https://img.shields.io/badge/GitHub-KawaseDev-181717?style=for-the-badge&logo=github)](https://github.com/KawaseDev)
 ![Discord](https://img.shields.io/badge/Discord-@kawase.owo-5865F2?style=for-the-badge&logo=discord&logoColor=white)
@@ -52,10 +54,10 @@ I mainly work with Java, Minecraft mods and clients, backend development, Java a
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=KawaseDev&show_icons=true&hide_border=true&bg_color=00000000&title_color=5865f2&icon_color=5865f2&text_color=c9d1d9" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KawaseDev&layout=compact&hide_border=true&bg_color=00000000&title_color=5865f2&text_color=c9d1d9" alt="Top languages" height="165"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=KawaseDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=5865f2&icon_color=5865f2&text_color=c9d1d9&border_radius=12" alt="GitHub stats" height="170"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KawaseDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=5865f2&text_color=c9d1d9&border_radius=12" alt="Top languages" height="170"/>
 
-<img src="https://cdn.jsdelivr.net/gh/KawaseDev/KawaseDev@output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KawaseDev&theme=react-dark&hide_border=true&radius=12" alt="Activity graph" width="100%"/>
 
 </div>
 
@@ -63,5 +65,3 @@ I mainly work with Java, Minecraft mods and clients, backend development, Java a
 
 [![Fakecrime](https://img.shields.io/badge/fakecrime.bio-kawase-111111?style=for-the-badge)](https://fakecrime.bio/kawase)
 [![E-Z Bio](https://img.shields.io/badge/e--z.bio-kawase-111111?style=for-the-badge)](https://e-z.bio/kawase)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
