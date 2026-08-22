@@ -13,18 +13,9 @@
 
 ## About me
 
-I mainly work with Java, Minecraft mods and clients, backend development, Java anti-reverse-engineering protection, tamper protection, and game-related tools.
+I mainly work with Java, Minecraft mods and clients, backend development, Java anti-reverse-engineering protection, tamper protection, and game-related tools. I'm also interested in AI, programming competitions, and experimenting with new technologies.
 
 ## Languages
-
-<div align="center">
-
-![Java](https://skillicons.dev/icons?i=java)
-![C#](https://skillicons.dev/icons?i=cs)
-![Python](https://skillicons.dev/icons?i=python)
-![C++](https://skillicons.dev/icons?i=cpp)
-
-</div>
 
 - **Proficient:** Java, C#, Python
 - **Currently learning:** C++
@@ -33,31 +24,18 @@ I mainly work with Java, Minecraft mods and clients, backend development, Java a
 
 - **Serenity Utils**: Backend and frontend
 - **Serenity Utils**: Anti-reverse engineering, tamper protection, and obfuscation
-- **Serenium / Astralis**: 26.1.2
+- **Serenium / Astralis**: 26.2
 - **Gothaj Recode**
 
 ## Tech stack
 
-<div align="center">
-
-![Java](https://skillicons.dev/icons?i=java)
-![C#](https://skillicons.dev/icons?i=cs)
-![Python](https://skillicons.dev/icons?i=python)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Gradle](https://skillicons.dev/icons?i=gradle)
-![Git](https://skillicons.dev/icons?i=git)
-![Linux](https://skillicons.dev/icons?i=linux)
-
-</div>
+![Java](https://skillicons.dev/icons?i=java) ![C#](https://skillicons.dev/icons?i=cs) ![Python](https://skillicons.dev/icons?i=python) ![C++](https://skillicons.dev/icons?i=cpp)
+![Gradle](https://skillicons.dev/icons?i=gradle) ![Git](https://skillicons.dev/icons?i=git) ![Linux](https://skillicons.dev/icons?i=linux)
 
 ## Tools
 
-<div align="center">
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-</div>
 
 ## Experience
 
@@ -70,10 +48,6 @@ I mainly work with Java, Minecraft mods and clients, backend development, Java a
 
 ## Links
 
-<div align="center">
-
 [![Fakecrime](https://img.shields.io/badge/fakecrime.bio-kawase-111111?style=for-the-badge)](https://fakecrime.bio/kawase)
 [![E-Z Bio](https://img.shields.io/badge/e--z.bio-kawase-111111?style=for-the-badge)](https://e-z.bio/kawase)
 [![GitHub](https://img.shields.io/badge/GitHub-KawaseDev-181717?style=for-the-badge&logo=github)](https://github.com/KawaseDev)
-
-</div>
