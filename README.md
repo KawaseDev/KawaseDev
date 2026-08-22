@@ -3,6 +3,7 @@
 <div align="center">
 
 # Hi, I'm Kawase :3
+### Developer from Romania focused on Java, Minecraft modding, backend systems, and game-related tooling.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=500&color=5865F2&center=true&vCenter=true&width=435&lines=Java+Developer;Minecraft+Modding;Backend+Systems;Anti-Reverse-Engineering" alt="Typing SVG">
 
