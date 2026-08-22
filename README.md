@@ -55,7 +55,7 @@ I mainly work with Java, Minecraft mods and clients, backend development, Java a
 <img src="https://github-readme-stats.vercel.app/api?username=KawaseDev&show_icons=true&hide_border=true&bg_color=00000000&title_color=5865f2&icon_color=5865f2&text_color=c9d1d9" alt="GitHub stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawaseDev&layout=compact&hide_border=true&bg_color=00000000&title_color=5865f2&text_color=c9d1d9" alt="Top languages" height="165"/>
 
-<img src="https://raw.githubusercontent.com/KawaseDev/KawaseDev/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+<img src="https://cdn.jsdelivr.net/gh/KawaseDev/KawaseDev@output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 
 </div>
 
