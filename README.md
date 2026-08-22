@@ -1,3 +1,5 @@
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=&fontSize=0)
+
 <div align="center">
 
 # Hi, I'm Kawase :3
@@ -5,7 +7,7 @@
 ### Developer from Romania focused on Java, Minecraft modding, backend systems, and game-related tooling.
 
 [![GitHub](https://img.shields.io/badge/GitHub-KawaseDev-181717?style=for-the-badge&logo=github)](https://github.com/KawaseDev)
-[![Discord](https://img.shields.io/badge/Discord-@kawase.owo-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+![Discord](https://img.shields.io/badge/Discord-@kawase.owo-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 </div>
 
@@ -15,41 +17,51 @@
 
 I mainly work with Java, Minecraft mods and clients, backend development, Java anti-reverse-engineering protection, tamper protection, game-related tools, and machine learning.
 
-## Languages
+## Current Projects
 
-- **Proficient:** Java, C# & Python
-- **Currently learning:** C++
+> All projects listed in this section are currently closed source.
 
-## Current Main projects
-
-- **Reselling.wtf**: Backend and frontend
-- **Serenity**: Backend, anti-reverse engineering, tamper protection, obfuscation, launcher etc
-- **Serenium / Astralis**: Minecraft 26.2  
-  *The version listed here may be outdated since I don't update this README every time. It's usually kept on the latest version.*
-- **Gothaj Recode**
+- **Serenity**: A closed-source client platform with its own launcher, backend, and protection infrastructure. It is currently used by Astralis and includes a range of anti-reverse-engineering, tamper protection, and obfuscation stuffies.
+- **Astralis / Serenium**: A Minecraft 26.2 Fabric client developed by Kawase and Ihasedich. It is currently the only client on Serenity and uses **Sapphire** for rendering.  
+  *The mc version listed here may be outdated since I don't update this README every time. Astralis is 99.99% of times on the latest mc version.*
+- **Sapphire**: A rendering engine developed by me with multiple versions the latest one as of now being the one developed through the Blaze3D abstraction layer, supporting both OpenGL and Vulkan rendering backends. It originally used LWJGL directly but due to the fact I cba to write my own vulkan backend I choose to port it to Blaze3D (the goat).
+- **Reselling.wtf**: Reselling platform for mc related products [![Visit Reselling.wtf](https://img.shields.io/badge/Visit%20Reselling.wtf-111111?style=for-the-badge)](https://reselling.wtf/)
+- **Gothaj Recode**: Multi-server client mainly focused on polar.
 
 ## Tech stack
 
-![Java](https://skillicons.dev/icons?i=java) ![C#](https://skillicons.dev/icons?i=cs) ![Python](https://skillicons.dev/icons?i=python) ![C++](https://skillicons.dev/icons?i=cpp)
-![Gradle](https://skillicons.dev/icons?i=gradle) ![Git](https://skillicons.dev/icons?i=git) ![Linux](https://skillicons.dev/icons?i=linux)
-
-## Tools
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-## Experience
+**Proficient:** Java, C# & Python · **Currently learning:** C++
 
 - 4 years of Java development
 - 4+ years of Python and C# development, mostly for occasional projects and side projects
 
-## Past projects
+![Java](https://skillicons.dev/icons?i=java) ![C#](https://skillicons.dev/icons?i=cs) ![Python](https://skillicons.dev/icons?i=python) ![C++](https://skillicons.dev/icons?i=cpp)
+![Gradle](https://skillicons.dev/icons?i=gradle) ![Git](https://skillicons.dev/icons?i=git) ![Linux](https://skillicons.dev/icons?i=linux)
+
+**Tools:**
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+## Past Projects
 
 - Gothaj 3.5 and 4.0 recodes for Minecraft 1.8
 - November, Lithium, Actinium, Suku and a lot more nn discontinued 1.8 clients
+
+## Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KawaseDev&show_icons=true&hide_border=true&bg_color=00000000&title_color=5865f2&icon_color=5865f2&text_color=c9d1d9" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawaseDev&layout=compact&hide_border=true&bg_color=00000000&title_color=5865f2&text_color=c9d1d9" alt="Top languages" height="165"/>
+
+<img src="https://raw.githubusercontent.com/KawaseDev/KawaseDev/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+
+</div>
 
 ## Links
 
 [![Fakecrime](https://img.shields.io/badge/fakecrime.bio-kawase-111111?style=for-the-badge)](https://fakecrime.bio/kawase)
 [![E-Z Bio](https://img.shields.io/badge/e--z.bio-kawase-111111?style=for-the-badge)](https://e-z.bio/kawase)
-[![GitHub](https://img.shields.io/badge/GitHub-KawaseDev-181717?style=for-the-badge&logo=github)](https://github.com/KawaseDev)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
