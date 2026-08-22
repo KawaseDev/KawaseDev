@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="banner.svg" alt="Kawase" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=500&color=5865F2&center=true&vCenter=true&width=435&lines=Java+Developer;Minecraft+Modding;Backend+Systems;Anti-Reverse-Engineering" alt="Typing SVG">
-</p>
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header)
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=500&color=5865F2&center=true&vCenter=true&width=435&lines=Java+Developer;Minecraft+Modding;Backend+Systems;Anti-Reverse-Engineering" alt="Typing SVG">
 
 [![GitHub](https://img.shields.io/badge/GitHub-KawaseDev-181717?style=for-the-badge&logo=github)](https://github.com/KawaseDev)
 ![Discord](https://img.shields.io/badge/Discord-@kawase.owo-5865F2?style=for-the-badge&logo=discord&logoColor=white)
@@ -56,8 +52,7 @@ I mainly work with Java, Minecraft mods and clients, backend development, Java a
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=KawaseDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=5865f2&icon_color=5865f2&text_color=c9d1d9&border_radius=12" alt="GitHub stats" height="170"/>
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KawaseDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=5865f2&text_color=c9d1d9&border_radius=12" alt="Top languages" height="170"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KawaseDev&theme=react-dark&hide_border=true&radius=12" alt="Activity graph" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=KawaseDev&hide_border=true&background=0d1117&stroke=5865f2&ring=5865f2&fire=5865f2&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="GitHub streak" height="170"/>
 
 </div>
 
