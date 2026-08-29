@@ -22,12 +22,12 @@ I mainly work with Java, Minecraft mods and clients, backend development, Java a
 
 > All projects listed in this section are currently closed source.
 
-- **Serenity**: A closed-source client platform with its own launcher, backend, and protection infrastructure. It is currently used by Astralis and includes a range of anti-reverse-engineering, tamper protection, and obfuscation stuffies.
-- **Astralis / Serenium**: A Minecraft 26.2 Fabric client developed by Kawase and Ihasedich. It is currently the only client on Serenity and uses **Sapphire** for rendering.  
+- **Serenity**: A client platform with its own launcher, backend, and protection infrastructure. It is currently used by Astralis and includes a range of anti-reverse-engineering, tamper protection, and obfuscation stuffies.
+- **Astralis / Serenium**: A Minecraft 26.2 Fabric client developed by Kawase and Ihasedich. It is currently the only client on Serenity and uses **Sapphire** as its rendering engine.  
   *The mc version listed here may be outdated since I don't update this README every time. Astralis is 99.99% of times on the latest mc version.*
-- **Sapphire**: A rendering engine developed by me with multiple versions the latest one as of now being the one developed through the Blaze3D abstraction layer, supporting both OpenGL and Vulkan rendering backends. It originally used LWJGL directly but due to the fact I cba to write my own vulkan backend I choose to port it to Blaze3D (the goat).
+- **Sapphire**: A rendering engine for mc for the most part developed by me with multiple editions the current one as of now uses the Blaze3D abstraction layer, supporting both OpenGL and Vulkan rendering backends. Sapphire originally used LWJGL directly but due to the fact I cba to write my own vulkan backend I choose to port it to Blaze3D (the goat).
 - **Reselling.wtf**: Reselling platform for mc related products [![Visit Reselling.wtf](https://img.shields.io/badge/Visit%20Reselling.wtf-111111?style=for-the-badge)](https://reselling.wtf/)
-- **Gothaj Recode**: Multi-server client mainly focused on polar.
+- **Gothaj Recode**: Multi-server client mainly focused on polar & multi-server.
 
 ## Tech stack
 
