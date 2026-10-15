@@ -1,4 +1,3 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header)
 
 <div align="center">
 
